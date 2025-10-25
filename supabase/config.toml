@@ -1,0 +1,10 @@
+project_id = "ckcalonfcuazyhuulxoj"
+
+[functions.auth-login]
+verify_jwt = false
+
+[functions.ml-anomaly-detection]
+verify_jwt = false
+
+[functions.generate-test-data]
+verify_jwt = false
