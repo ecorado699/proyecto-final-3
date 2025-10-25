@@ -24,6 +24,8 @@ Frontend (React/TypeScript) ↔ Supabase Backend
     └── API REST automática
 ```
 
+
+
 ### Diagrama de Componentes
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
